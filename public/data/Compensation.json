@@ -1,0 +1,93 @@
+[
+    {
+      "companyName": "Ampco-Pittsburgh Corporation",
+      "totalMaximumCompensationApproved": "$1,200,000",
+      "maximumCompensationAsPercentageOfNetIncome": "2.5%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Manitex International, Inc.",
+      "totalMaximumCompensationApproved": "$1,500,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.0%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Broadwind, Inc",
+      "totalMaximumCompensationApproved": "$1,800,000",
+      "maximumCompensationAsPercentageOfNetIncome": "2.8%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "NCS Multistage Holdings, Inc.",
+      "totalMaximumCompensationApproved": "$1,000,000",
+      "maximumCompensationAsPercentageOfNetIncome": "1.5%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Core Molding Technologies, Inc.",
+      "totalMaximumCompensationApproved": "$2,000,000",
+      "maximumCompensationAsPercentageOfNetIncome": "4.0%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Northwest Pipe Company",
+      "totalMaximumCompensationApproved": "$1,700,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.5%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Energy Recovery, Inc.",
+      "totalMaximumCompensationApproved": "$2,500,000",
+      "maximumCompensationAsPercentageOfNetIncome": "5.0%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Omega Flex, Inc.",
+      "totalMaximumCompensationApproved": "$1,300,000",
+      "maximumCompensationAsPercentageOfNetIncome": "2.0%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Gencor Industries, Inc.",
+      "totalMaximumCompensationApproved": "$1,600,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.0%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "The L.S. Starrett Company",
+      "totalMaximumCompensationApproved": "$1,400,000",
+      "maximumCompensationAsPercentageOfNetIncome": "2.5%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Graham Corporation",
+      "totalMaximumCompensationApproved": "$1,200,000",
+      "maximumCompensationAsPercentageOfNetIncome": "2.8%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Thermon Group Holdings, Inc.",
+      "totalMaximumCompensationApproved": "$1,800,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.5%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Gulf Island Fabrication, Inc.",
+      "totalMaximumCompensationApproved": "$1,700,000",
+      "maximumCompensationAsPercentageOfNetIncome": "4.0%",
+      "approvalStatus": "Not Approved"
+    },
+    {
+      "companyName": "Twin Disc, Incorporated",
+      "totalMaximumCompensationApproved": "$1,500,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.0%",
+      "approvalStatus": "Approved"
+    },
+    {
+      "companyName": "Hurco Companies, Inc.",
+      "totalMaximumCompensationApproved": "$1,600,000",
+      "maximumCompensationAsPercentageOfNetIncome": "3.8%",
+      "approvalStatus": "Not Approved"
+    }
+  ]
+  

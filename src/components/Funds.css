@@ -1,0 +1,66 @@
+.funds {
+  padding: 20px;
+  
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+h2{
+  margin-top: 40px;
+}
+
+.funds-table{
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.funds-table h2{
+  font-size: 2em;
+}
+
+button {
+  margin: 0 5px;
+  /* padding: 10px; */
+  margin-top: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #ddd;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+td {
+  background-color: #fff;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}

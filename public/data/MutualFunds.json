@@ -1,0 +1,226 @@
+[
+    {
+      "company_name": "Oxford Lane Capital",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -0.1969,
+        "month_2": 11.0220,
+        "month_3": 0.7326
+      },
+      "fundAnnualReturn": "38.23",
+      "totalReturn": "12.72",
+      "totalManagementExpenses": 500000, 
+      "averageAUM": 50000000,             
+      "MER": "1.00"  
+    },
+    {
+      "company_name": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -4.62000000,
+        "month_2": 4.77000000,
+        "month_3": 1.67000000
+      },
+      "fundAnnualReturn": "7.28",
+      "totalReturn": "3.24",
+      "totalManagementExpenses": 700000, 
+      "averageAUM": 35000000,             
+      "MER": "2.00"  
+    },
+    {
+      "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 8.85795100,
+        "month_2": 4.45011200,
+        "month_3": 1.80082900
+      },
+      "fundAnnualReturn": "68.43",
+      "totalReturn": "21.53",
+      "totalManagementExpenses": 600000,  
+      "averageAUM": 30000000,             
+      "MER": "2.00"  
+    },
+    {
+      "company_name": "JNL Series Trust",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -0.06,
+        "month_2": 2.8,
+        "month_3": 2.73
+      },
+      "fundAnnualReturn": "21.88",
+      "totalReturn": "67.48",
+      "totalManagementExpenses": 550000,  
+      "averageAUM": 40000000,            
+      "MER": "1.38"  
+    },
+    {
+      "company_name": "Guardian Variable Products Trust",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -4.10000000,
+        "month_2": 3.30000000,
+        "month_3": -0.54000000
+      },
+      "fundAnnualReturn": "-5.36",
+      "totalReturn": "-7.76",
+      "totalManagementExpenses": 450000,  
+      "averageAUM": 25000000,            
+      "MER": "1.80"  
+    },
+    {
+      "company_name": "Tidal Trust II",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 25.570000000000,
+        "month_2": 69.82,
+        "month_3": -27.420000000000
+      },
+      "fundAnnualReturn": "271.88",
+      "totalReturn": "453.64",
+      "totalManagementExpenses": 800000,  
+      "averageAUM": 70000000,             
+      "MER": "1.14"  
+    },
+    {
+      "company_name": "HOTCHKIS & WILEY FUNDS/DE",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -3.860000000000,
+        "month_2": 5.530000000000,
+        "month_3": -3.680000000000
+      },
+      "fundAnnualReturn": "-0.04",
+      "totalReturn": "-7.52",
+      "totalManagementExpenses": 300000,  
+      "averageAUM": 15000000,            
+      "MER": "2.00"  
+    },
+    {
+      "company_name": "Ellington Income Opportunities Fund",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 0.9081,
+        "month_2": 1.5748,
+        "month_3": 1.13455
+      },
+      "fundAnnualReturn": "14.46",
+      "totalReturn": "36.55",
+      "totalManagementExpenses": 200000,  
+      "averageAUM": 40000000,             
+      "MER": "0.50"  
+    },
+    {
+      "company_name": "General American Investors Company, Inc.",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 3.26,
+        "month_2": 5.94,
+        "month_3": -2.28
+      },
+      "fundAnnualReturn": "35.68",
+      "totalReturn": "46.96",
+      "totalManagementExpenses": 400000,  
+      "averageAUM": 25000000,             
+      "MER": "1.60"  
+    },
+    {
+      "company_name": "Meeder Funds",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -0.00810000,
+        "month_2": 0.01040000,
+        "month_3": 0.00540000
+      },
+      "fundAnnualReturn": "0.03",
+      "totalReturn": "0.24",
+      "totalManagementExpenses": 150000,  
+      "averageAUM": 20000000,             
+      "MER": "0.75"  
+    },
+    {
+      "company_name": "Pacer Funds Trust",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 5.350000000000,
+        "month_2": 2.270000000000,
+        "month_3": 1.000000000000
+      },
+      "fundAnnualReturn": "34.48",
+      "totalReturn": "92.74",
+      "totalManagementExpenses": 600000,  
+      "averageAUM": 35000000,             
+      "MER": "1.71"  
+    },
+    {
+      "company_name": "Altaba Inc.",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 0.36,
+        "month_2": 0.00,
+        "month_3": 0.71
+      },
+      "fundAnnualReturn": "4.28",
+      "totalReturn": "12.84",
+      "totalManagementExpenses": 100000,  
+      "averageAUM": 20000000,             
+      "MER": "0.50"  
+    },
+    {
+      "company_name": "VOLUMETRIC FUND INC",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -4.59,
+        "month_2": 3.00,
+        "month_3": 1.21
+      },
+      "fundAnnualReturn": "-1.52",
+      "totalReturn": "-15.48",
+      "totalManagementExpenses": 500000,  
+      "averageAUM": 30000000,             
+      "MER": "1.67" 
+    },
+    {
+      "company_name": "First Trust Exchange-Traded Fund IV",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 6.46000000,
+        "month_2": 7.87000000,
+        "month_3": -1.34000000
+      },
+      "fundAnnualReturn": "59.96",
+      "totalReturn": "78.22",
+      "totalManagementExpenses": 700000,  
+      "averageAUM": 50000000,             
+      "MER": "1.40"  
+    },
+    {
+      "company_name": "Kinetics Portfolios Trust",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": 0.25,
+        "month_2": 17.71,
+        "month_3": 28.65
+      },
+      "fundAnnualReturn": "186.44",
+      "totalReturn": "832.28",
+      "totalManagementExpenses": 800000,  
+      "averageAUM": 60000000,             
+      "MER": "1.33"  
+    },
+    {
+      "company_name": "ARBITRAGE FUNDS",
+      "year": 2024,
+      "monthly_total_returns": {
+        "month_1": -0.04000000,
+        "month_2": 0.28000000,
+        "month_3": 0.61000000
+      },
+      "fundAnnualReturn": "3.40",
+      "totalReturn": "8.84",
+      "totalManagementExpenses": 120000,  
+      "averageAUM": 20000000,             
+      "MER": "0.60" 
+    }
+]

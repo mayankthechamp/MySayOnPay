@@ -1,0 +1,95 @@
+.voting-container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 64px auto;
+    padding: 57px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .voting-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .voting-paragraph {
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+  .voting-form {
+    font-size: 18px;
+    padding: 40px;
+  }
+  
+  .voting-form label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+  }
+  
+  .voting-form input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  .voting-form label span {
+    flex-grow: 1;
+  }
+  
+  .voting-form .radio-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .voting-form .submit-button {
+    margin-top: 77px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 0px;
+  }
+  
+  .voting-form .submit-button:hover {
+    background-color: #418743;
+  }
+
+  .voting-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: -28px;
+  }
+  
+  .voting-statement {
+    flex: 1;
+    font-size: 16px;
+    margin-right: 303px;
+  }
+  
+  .radio-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-buttons label {
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+  }
+  
+  .radio-buttons span {
+    margin-left: 5px;
+    font-size: 16px;
+  }
+  

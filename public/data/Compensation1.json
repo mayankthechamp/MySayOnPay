@@ -1,0 +1,94 @@
+[
+    {
+      "nameAndPosition": "David J. Mansfield",
+      "year": 2023,
+      "salary": "$467,862",
+      "stockAwards": "$350,981",
+      "nonEquityIncentivePlanCompensation": "$639,492",
+      "allOtherCompensation": "$13,228",
+      "total": "$1,471,563"
+    },
+    {
+      "nameAndPosition": "President and Chief Executive Officer",
+      "year": 2022,
+      "salary": "$450,000",
+      "stockAwards": "$337,447",
+      "nonEquityIncentivePlanCompensation": "$777,148",
+      "allOtherCompensation": "$12,031",
+      "total": "$1,576,626"
+    },
+    {
+      "nameAndPosition": "Matthew E. Lewicki",
+      "year": 2023,
+      "salary": "$190,520",
+      "stockAwards": "$42,005",
+      "nonEquityIncentivePlanCompensation": "$91,033",
+      "allOtherCompensation": "$3,236",
+      "total": "$326,794"
+    },
+    {
+      "nameAndPosition": "Vice President and Chief Financial Officer",
+      "year": 2022,
+      "salary": "$-",
+      "stockAwards": "$-",
+      "nonEquityIncentivePlanCompensation": "$-",
+      "allOtherCompensation": "$-",
+      "total": "$-"
+    },
+    {
+      "nameAndPosition": "Saleh Sagr",
+      "year": 2023,
+      "salary": "$265,663",
+      "stockAwards": "$59,204",
+      "nonEquityIncentivePlanCompensation": "$210,228",
+      "allOtherCompensation": "$72,000",
+      "total": "$607,095"
+    },
+    {
+      "nameAndPosition": "Senior Vice President - MENA",
+      "year": 2022,
+      "salary": "$253,000",
+      "stockAwards": "$78,835",
+      "nonEquityIncentivePlanCompensation": "$157,186",
+      "allOtherCompensation": "$-",
+      "total": "$489,021"
+    },
+
+    {
+        "nameAndPosition": "D. Bryan Norwood",
+        "year": 2023,
+        "salary": "$281,725",
+        "stockAwards": "$63,382",
+        "nonEquityIncentivePlanCompensation": "$211,515",
+        "allOtherCompensation": "$8,372",
+        "total": "$564,994"
+      },
+    {
+      "nameAndPosition": "Vice President and Chief Financial Officer",
+      "year": 2022,
+      "salary": "$281,725",
+      "stockAwards": "$63,382",
+      "nonEquityIncentivePlanCompensation": "$211,515",
+      "allOtherCompensation": "$8,372",
+      "total": "$564,994"
+    },
+    {
+        "nameAndPosition": "Grant W. Dewbre",
+        "year": 2023,
+        "salary": "$129,338",
+        "stockAwards": "$-",
+        "nonEquityIncentivePlanCompensation": "$-",
+        "allOtherCompensation": "$10,697",
+        "total": "$140,035"
+      },
+    {
+      "nameAndPosition": "Chief Operating Officer",
+      "year": 2022,
+      "salary": "$288,900",
+      "stockAwards": "$64,993",
+      "nonEquityIncentivePlanCompensation": "$220,365",
+      "allOtherCompensation": "$11,386",
+      "total": "$585,644"
+    }
+  ]
+  

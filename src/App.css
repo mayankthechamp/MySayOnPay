@@ -1,0 +1,75 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  /* background: url('../src/components/Stock.jpg') !important; */
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+}
+
+.hero-section {
+  padding: 140px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.hero-section h2 {
+  font-weight: bold;
+}
+
+.get-started-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.search-sections {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.search-container {
+  width: 79%;
+}
+
+.search-container h2 {
+  margin-bottom: 10px;
+}
+
+.search-container input {
+  width: 80%;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.search-results {
+  margin-top: 20px;
+}
+
+.search-result {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url("../src/components/Stocks3.png") no-repeat center center fixed;
+  background-size: cover; 
+  height: 100%;
+  overflow-y: auto;
+}

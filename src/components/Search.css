@@ -1,0 +1,374 @@
+/* /* .search-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 2000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.search-section {
+  width: 48%;
+}
+
+.search-input-container {
+  position: relative;
+  width: 100%;
+}
+
+input[type1="text"] {
+  width: 100%;
+  padding: 10px 40px 10px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #888;
+}
+
+.search-results,
+.compensation-table {
+  margin-top: 20px;
+}
+
+.search-result {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.search-result p {
+  margin: 5px 0;
+}
+
+.compensation-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.compensation-table th,
+.compensation-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.compensation-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.compensation-table tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+.compensation-table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.compensation-table h2 {
+  margin-bottom: 10px;
+} 
+
+
+
+
+.search-container1 {
+  width: 100%;
+  max-width: 1500px; 
+  margin: 0 auto;
+  text-align: center;
+}
+
+.search-input-container1 {
+  position: relative;
+  width: 100%;
+}
+
+input[type="text1"] {
+  width: 40%;
+  padding: 10px 40px 10px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-icon1 {
+  position: absolute;
+  right: 361px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #888;
+}
+
+.search-results1 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); 
+  gap: 40px;
+  margin-top: 20px;
+  justify-content: center; 
+}
+
+.search-result1 {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-result1 p {
+  margin: 10px 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 90px; 
+} */
+
+
+
+/*  */
+
+/* body{
+  background: url("../components/Stocks3.png") no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-y: auto;
+} */
+
+.search-container1 {
+  width: 100%;
+  max-width: 1500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px; /* Add padding for better spacing */
+}
+
+.search-input-container1 {
+  position: relative;
+  width: 100%;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+input[type="text"] {
+  width: 40%;
+  padding: 10px 40px 10px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.search-icon1 {
+  position: absolute;
+  right: 380px; /* Adjusted right position */
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #888;
+}
+
+.search-results {
+  margin-top: 20px;
+  overflow-x: auto; /* Ensure the table is scrollable on small screens */
+}
+
+.grouped-result {
+  margin-bottom: 30px; /* Space between different person's records */
+  background-color: rgba(255, 255, 255, 0.8); /* Optional: Add a background color with some transparency */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  padding: 20px; /* Add padding inside each grouped result */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+td {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.white-container {
+  background-color: #eeecec;
+  padding: 40px;
+  margin: 40px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.chat-section {
+  margin: 40px 0;
+}
+
+.chat-section h2 {
+  font-size: 2.5rem;
+}
+
+.chat-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.chat-window {
+  flex: 1;
+  margin-bottom: 20px;
+}
+
+.chat-window h3 {
+  margin-bottom: 20px;
+  margin-top: -3px;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.question p {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.question textarea {
+  width: 84%;
+  height: 100px;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.bidding-section {
+  flex: 1;
+  margin-top: 2px;
+}
+
+.bidding-section h3 {
+  margin-bottom: 20px;
+  margin-top: -4px;
+}
+
+.bidding-item {
+  background-color: #f9f9f9;
+  padding: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.bidding-item p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.subject-matter-experts h2 {
+  font-weight: bold;
+  margin: 40px 0;
+  font-size: 2.5rem;
+}
+
+.subject-matter-experts .white-container {
+  padding: 20px;
+}
+
+.subject-matter-experts form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subject-matter-experts table {
+  width: 100%;
+  max-width: 800px;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.subject-matter-experts th,
+.subject-matter-experts td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+.subject-matter-experts th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.subject-matter-experts input[type="text"] {
+  width: 89%;
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  padding-top: 20px;
+}
+
+.add-row-btn,
+.submit-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-row-btn:hover,
+.submit-btn:hover {
+  background-color: #45a049;
+}
+
+.submit-chat-btn {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.submit-chat-btn:hover {
+  background-color: #45a049;
+}
